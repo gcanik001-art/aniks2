@@ -9,7 +9,7 @@ printf("wowwwwww");
 scanf("%d",&a);
 
 return 0;
-
+scanf("%d",&a);
 
 
 
