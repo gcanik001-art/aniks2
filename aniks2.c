@@ -6,15 +6,7 @@ int a;
 printf("my name is anik");
 printf("now this is the 2nd line ");
 
-return 0;
-scanf("%d",&a);
 
-printf("%d",a);
-
-
-
-
-
-printf("there you gooo ");l
+printf("there you gooo");l
 
 }
